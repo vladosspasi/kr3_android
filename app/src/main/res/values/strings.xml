@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KR3</string>
+    <string-array name="flights">
+        <item>Москва-Сарань</item>
+        <item>Москва-Пермь</item>
+        <item>Москва-Тамбов</item>
+    </string-array>
+</resources>
